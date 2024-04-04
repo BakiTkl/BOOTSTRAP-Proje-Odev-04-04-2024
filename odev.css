@@ -1,0 +1,44 @@
+#header{
+    height: 80vh;
+    background: #1abc9c;
+}
+
+#navbarContainer{
+    background-color: #2c3e50;
+}
+
+body{
+   color:white !important
+}
+#headerimage{
+    padding-top: 12em;
+}
+.sıyahrenk{
+    color:rgba(0, 0, 0, 0.87)
+}
+.portfolio-image{
+    height: 300px;
+    border-radius: 10px;
+    
+}
+.about{
+    background-color: #1abc9c;
+}
+.btn{
+    border: 2px solid white !important;
+    font-size: 20px !important;
+    padding: 15px 20px !important;
+}
+.information{
+    background-color: #2c3e50;
+}
+.footer{
+    background-color: #1a252f;
+}
+.mybtn:hover a{
+    color: black !important;
+}
+
+.linkstart{
+    color:#1abc9c
+}
